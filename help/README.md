@@ -95,7 +95,7 @@ Qlate supports following math functions
 `abs(-10) = 10`</br>
 `sqrt(4) = 2`
 
-**Note: These function words are reserved and cannot be used a variable names**
+**Note: These function words are reserved and cannot be used as variable names**
 
 For e.g. In `sqrt = 10`, value `10` **will not** be saved in `sqrt`.
 
